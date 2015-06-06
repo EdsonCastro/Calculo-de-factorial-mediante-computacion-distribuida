@@ -1,2 +1,2 @@
-# Entrega02
-Entrega02 SD
+# Segunda_Entrega_Sistemas_Distribuidos
+Segunda_Entrega_Sistemas_Distribuidos
