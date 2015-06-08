@@ -24,7 +24,7 @@ Para poner el funcionamiento el servidor y los servidores auxiliares los cuales 
 2. *python auxserv2.py*
 3. *python server.py*
 
-Para poner en funcionamiento el cliente, en un terminal acceder a la carpeta donde este el cliente y ponerlo en  ejecución, remplazar num por el número entero positivo del cual se desea obtener el factorial.
+Para poner en funcionamiento el cliente, en un terminal acceder a la carpeta donde este el cliente y ponerlo en  ejecución, remplazar *num* por el número entero positivo del cual se desea obtener el factorial.
 
 1. *python client.py num*
 
