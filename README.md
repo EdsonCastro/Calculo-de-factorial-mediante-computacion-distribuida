@@ -38,4 +38,4 @@ El cliente devuelve el resultado del factorial en su terminal, y el servidor que
 
 * Con el servidor y los auxiliares lanzados se hace prueba del factorial de 10 en el cliente ejecutando *python client.py 10* el resultado obtenido es 3628800.
   
-* Con el servidor y los auxiliares lanzados se hace prueba del factorial de 12 en el cliente ejecutando **python client.py 12** el resultado obtenido es 479001600.
+* Con el servidor y los auxiliares lanzados se hace prueba del factorial de 12 en el cliente ejecutando *python client.py 12* el resultado obtenido es 479001600.
