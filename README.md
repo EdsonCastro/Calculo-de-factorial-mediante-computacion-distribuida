@@ -12,7 +12,7 @@ Trabajo de la asignatura de Sistemas Distribuidos de la Universidad de Cadiz.
 
 ### 2. Idea del proyecto.
 
-El proyecto pretende resolver el cálculo del factorial de un número, utilizando el lenguaje Python, ZeroMQ y computación distribuida, de tal manera que el cliente que necesita el factorial de un número entero positivo, ejecute mediante terminarl el programa cliente.py pasando mediante argumento el número del cuál se necesita el factorial, y se envíe la petición a un servidor, que de manera transparente al usuario utiliza dos servidores auxiliares que hacen los cálculos por medio de la división de este numero en dos, el servidor recibe la respuesta de cada uno de los servidores auxiliares y envía el resultado final al cliente que ha realizado la petición, logrando de esta manera independencia del usuario en el cálculo y velocidad de respuesta.
+El proyecto pretende resolver el cálculo del factorial de un número, utilizando el lenguaje Python, ZeroMQ y computación distribuida, de tal manera que el cliente que necesita el factorial de un número entero positivo, ejecute mediante terminal el programa cliente.py pasando mediante argumento el número del cuál se necesita el factorial, y se envíe la petición a un servidor, que de manera transparente al usuario utiliza dos servidores auxiliares que hacen los cálculos por medio de la división de este numero en dos, el servidor recibe la respuesta de cada uno de los servidores auxiliares y envía el resultado final al cliente que ha realizado la petición, logrando de esta manera independencia del usuario en el cálculo y velocidad de respuesta.
 
 ### 3. Entorno de pruebas.
 
