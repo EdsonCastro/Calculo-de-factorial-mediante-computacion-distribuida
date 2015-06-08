@@ -1,5 +1,7 @@
 # Calculo de factorial mediante computacion distribuida
 
+## 1. Miebros del grupo.
+
 Trabajo de la asignatura de Sistemas Distribuidos de la Universidad de Cadiz.
 Autores:
 
