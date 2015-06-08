@@ -18,7 +18,7 @@ El proyecto pretende resolver el cálculo del factorial de un número, utilizand
 
 El proyecto consta de dos partes, el servidor y servidores auxiliares están en la carpeta de Servidor y el cliente que se encuentra en la carpeta de Cliente.
 
-Para poner el funcionamiento el servidor y los servidores auxiliares los cuales se encargan de realizan el cálculo,en terminales independientes acceder a la carpeta donde estén los archivos y ejecutarlos:
+Para poner el funcionamiento el servidor y los servidores auxiliares los cuales se encargan de realizar el cálculo, en terminales independientes acceder a la carpeta donde estén los archivos y ejecutarlos:
 
 1. *python auxserv1.py*
 2. *python auxserv2.py*
