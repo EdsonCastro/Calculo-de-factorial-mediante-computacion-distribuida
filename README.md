@@ -1,5 +1,4 @@
-# Segunda_Entrega_Sistemas_Distribuidos
-Segunda_Entrega_Sistemas_Distribuidos
+# Calculo de factorial mediante computacion distribuida
 
 Trabajo de la asignatura de Sistemas Distribuidos de la Universidad de Cadiz.
 Autores:
