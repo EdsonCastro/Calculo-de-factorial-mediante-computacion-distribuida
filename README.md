@@ -1,13 +1,12 @@
 # Calculo de factorial mediante computacion distribuida
 
-## 1. Miebros del grupo.
-
 Trabajo de la asignatura de Sistemas Distribuidos de la Universidad de Cadiz.
-Autores:
 
-- Borrego Fajardo,Carlos
-- Cabeza de Vaca Román ,Germán
-- Castro Monterrosa. Edson Anatoly
+## 1.Autores.
+
+* Borrego Fajardo,Carlos
+* Cabeza de Vaca Román ,Germán
+* Castro Monterrosa. Edson Anatoly
 
 En terminal acceder a la carpeta donde estén los archivos del servidor.
 
